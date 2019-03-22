@@ -16,6 +16,7 @@ npm install -g http-server
 http-server -p 3000
 ```
 
+
 Now You Can view the dashboard on http://localhost:3000
 
 # Note 
