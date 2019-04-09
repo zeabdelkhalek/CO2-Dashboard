@@ -2,6 +2,10 @@
 # CO2-Dashboard
 This dashboard is built with [D3.js](https://d3js.org/) for data visualization 
 
+# Screenshot 
+
+![Screen](/Screen.png)
+
 # Setup 
 Run This Commands To View The Dashboard Locally : 
 
@@ -22,5 +26,8 @@ Now You Can view the dashboard on http://localhost:3000
 # Note 
 This dashboard was built as a part of [The Advanced Web Developer Bootcamp](https://www.udemy.com/the-advanced-web-developer-bootcamp/)
 
+# License 
+
+Copyright (c) Abdelkhalek ZELLAT (https://github.com/AbdelkhalekESI). Released under MIT. See [`LICENSE`][license] for details.
 
 ###### Contributions are welcome 
