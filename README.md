@@ -28,6 +28,6 @@ This dashboard was built as a part of [The Advanced Web Developer Bootcamp](http
 
 # License 
 
-Copyright (c) Abdelkhalek ZELLAT (https://github.com/AbdelkhalekESI). Released under MIT. See [`LICENSE`][license] for details.
+Copyright (c) Abdelkhalek ZELLAT (https://github.com/AbdelkhalekESI). Released under MIT. See [`LICENSE`][/LICENSE] for details.
 
 ###### Contributions are welcome 
